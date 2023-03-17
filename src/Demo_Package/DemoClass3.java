@@ -1,7 +1,6 @@
 package Demo_Package;
 
 // DemoClass3 = Child Class
-
 // DemoClass2 = Parent Class
 
 
